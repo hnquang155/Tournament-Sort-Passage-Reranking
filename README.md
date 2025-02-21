@@ -4,8 +4,6 @@
 
 **Note:** This code is designed to run on the **Deakin Compute Cluster**.
 
-Due to limited Google Drive storage, all required files are available in a **OneDrive link**.
-
 ## Quick Start
 
 ### Step 1: Install and Verify Python Version
